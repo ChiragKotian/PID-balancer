@@ -4,12 +4,11 @@ This project was created by us as a demonstration of usage PID in systems to our
 
 ## Engineering perspective
 
-In this project a cardboard box running on rollers is kept in a L shaped guideway pivoted at the center like a see-saw with a ultrosonic
+In this project, a cardboard box running on rollers is kept in an L-shaped guideway pivoted at the centre like a see-saw with an ultrasonic
 sensor at one end and actuated by a servo motor all attached to each other via metal rods and 3D  printed parts. Arduino controls the servo in such a way that 
-the cardboard box always stops at the center of the guideway regardless of where the user keeps it initially with the help of distance measured by the ultrasonic sensor 
-from one side of the guideway.
+the cardboard box always stops at the centre of the guideway regardless of where the user keeps it initially with the help of distance measured by the ultrasonic sensor from one side of the guideway.
 
-The values of Kp, Kd and Ki was set by us using trial and error method(First Kp, then Kd and then Ki).
+The values of Kp, Kd and Ki were set by us using the trial and error method(First Kp, then Kd and then Ki).
 
 ## Some videos:
 
