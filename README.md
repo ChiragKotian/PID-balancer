@@ -18,4 +18,5 @@ https://github.com/ChiragKotian/PID-balancer/assets/117931123/e54ff9bb-ab6d-4627
 
 
 ## Credits:
+_This was made by [me](https://chiragkotian.github.io) with some help from [Arpit](https://github.com/arpitguptagithub) and Aman Kumar._
 
